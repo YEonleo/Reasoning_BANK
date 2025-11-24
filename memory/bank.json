@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Strategy for python task",
+    "description": "Reusable rule distilled from a success trajectory.",
+    "content": [
+      "Always inspect the tool output (e.g., Python stdout or spreadsheet rows) carefully before answering.",
+      "If the question asks for a comparison or probability, explicitly compute all relevant numeric values using tools first."
+    ],
+    "tags": [
+      "python"
+    ],
+    "polarity": "success",
+    "evidence": [
+      "traj_step#1"
+    ],
+    "id": "rb_0001",
+    "use_count": 3,
+    "created_at": "2025-11-24T03:50:54.226999Z"
+  },
+  {
+    "title": "Strategy for xlsx, spreadsheet, sales, city task",
+    "description": "Reusable rule distilled from a success trajectory.",
+    "content": [
+      "Always inspect the tool output (e.g., Python stdout or spreadsheet rows) carefully before answering.",
+      "If the question asks for a comparison or probability, explicitly compute all relevant numeric values using tools first."
+    ],
+    "tags": [
+      "xlsx",
+      "spreadsheet",
+      "sales",
+      "city"
+    ],
+    "polarity": "success",
+    "evidence": [
+      "traj_step#1"
+    ],
+    "id": "rb_0002",
+    "use_count": 6,
+    "created_at": "2025-11-24T03:50:54.378866Z"
+  },
+  {
+    "title": "Strategy for xlsx, spreadsheet, operating_status task",
+    "description": "Reusable rule distilled from a success trajectory.",
+    "content": [
+      "Always inspect the tool output (e.g., Python stdout or spreadsheet rows) carefully before answering.",
+      "If the question asks for a comparison or probability, explicitly compute all relevant numeric values using tools first."
+    ],
+    "tags": [
+      "xlsx",
+      "spreadsheet",
+      "operating_status"
+    ],
+    "polarity": "success",
+    "evidence": [
+      "traj_step#1"
+    ],
+    "id": "rb_0003",
+    "use_count": 6,
+    "created_at": "2025-11-24T03:50:54.387762Z"
+  },
+  {
+    "title": "Strategy for xlsx, spreadsheet, sales, city task",
+    "description": "Reusable rule distilled from a success trajectory.",
+    "content": [
+      "Always inspect the tool output (e.g., Python stdout or spreadsheet rows) carefully before answering.",
+      "If the question asks for a comparison or probability, explicitly compute all relevant numeric values using tools first."
+    ],
+    "tags": [
+      "xlsx",
+      "spreadsheet",
+      "sales",
+      "city"
+    ],
+    "polarity": "success",
+    "evidence": [
+      "traj_step#1"
+    ],
+    "id": "rb_0004",
+    "use_count": 1,
+    "created_at": "2025-11-24T04:02:12.341195Z"
+  },
+  {
+    "title": "Strategy for xlsx, spreadsheet, operating_status task",
+    "description": "Reusable rule distilled from a success trajectory.",
+    "content": [
+      "Always inspect the tool output (e.g., Python stdout or spreadsheet rows) carefully before answering.",
+      "If the question asks for a comparison or probability, explicitly compute all relevant numeric values using tools first."
+    ],
+    "tags": [
+      "xlsx",
+      "spreadsheet",
+      "operating_status"
+    ],
+    "polarity": "success",
+    "evidence": [
+      "traj_step#1"
+    ],
+    "id": "rb_0005",
+    "use_count": 3,
+    "created_at": "2025-11-24T04:02:48.611844Z"
+  },
+  {
+    "title": "Strategy for xlsx, spreadsheet, operating_status task",
+    "description": "Reusable rule distilled from a success trajectory.",
+    "content": [
+      "Always inspect the tool output (e.g., Python stdout or spreadsheet rows) carefully before answering.",
+      "If the question asks for a comparison or probability, explicitly compute all relevant numeric values using tools first."
+    ],
+    "tags": [
+      "xlsx",
+      "spreadsheet",
+      "operating_status"
+    ],
+    "polarity": "success",
+    "evidence": [
+      "traj_step#2"
+    ],
+    "id": "rb_0006",
+    "use_count": 0,
+    "created_at": "2025-11-24T04:02:56.248650Z"
+  }
+]
